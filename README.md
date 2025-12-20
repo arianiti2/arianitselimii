@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to reach me
 
-- Email: niti_shipol@hotmail.com
+- Email: arianitselimi5@hotmail.com
 - GitHub: [https://github.com/arianiti2](https://github.com/arianiti2)
 - LinkedIn: [Arianit Selimi](https://www.linkedin.com/in/arianit-selimi/)
 
