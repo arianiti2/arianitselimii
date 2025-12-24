@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to reach me
 
-- Email: arianitselimi5@hotmail.com
+- Email: arianitselimi10@hotmail.com
 - LinkedIn: [Arianit Selimi](https://www.linkedin.com/in/arianit-selimi/)
 
 ---
